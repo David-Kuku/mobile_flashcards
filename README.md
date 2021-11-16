@@ -5,7 +5,7 @@ This project was created with [Create React Native App]
 To clone this project, run the follow commands on your terminal
 
 ```sh
-git clone 
+git clone https://github.com/David-Kuku/mobile_flashcards.git
 ```
 
 navigate to the project's directory
